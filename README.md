@@ -7,8 +7,11 @@ Database Selection:  MySQL
 Team Members with GIT Accounts Hyperlinked:  
 
 Cal Davis, - Data Analyst Coordinator and Visualization Contributor
+
 Paul Derisemu - Data Visualization Contributor and Presentation Coordinator
+
 Tejas Phirke - Database Structurer Coordinator and Data Analyst
+
 Zain Hoda - Project Coordinator and Chief Code Editor
 
 Shared Project Folder -  https://github.com/zainhoda1/DB_Yelp_reviews
