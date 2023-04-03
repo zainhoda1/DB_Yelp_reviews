@@ -20,5 +20,6 @@ Potential Scope:
 
 Correlation between business ratings 
 Ex: stars and the number of reviews, check-in, and stars, etc.
+
 Review bias analysis
 Ex: experienced vs new users and restaurants, flagging unfair review scores
