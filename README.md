@@ -6,7 +6,7 @@ Data Source  https://www.kaggle.com/datasets/yelp-dataset/yelp-dataset
 
 Database Selection:  MySQL
 
-Team Members with GIT Accounts Hyperlinked:  
+Team Members: 
 
 Cal Davis, - Data Analyst Coordinator and Visualization Contributor
 
