@@ -10,6 +10,6 @@ SELECT u.user_id, u.name AS user_name,
 FROM user u
 JOIN review r ON u.user_id = r.user_id
 JOIN business b ON r.business_id = b.business_id
-GROUP BY b.business_id, b.name
+GROUP BY u.user_id, u.name, b.business_id, b.name
 ORDER BY total_useful DESC, total_funny DESC, total_cool DESC
 limit 1000;
